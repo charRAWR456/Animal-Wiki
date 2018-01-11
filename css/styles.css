@@ -1,0 +1,25 @@
+img{
+    width: 100%;
+    height: inherit;
+}
+
+.turtle-info {
+    display: none;
+}
+
+.sloth-info {
+    display: none;
+}
+
+.red-panda-info {
+    display: none;
+}
+img:hover {
+    cursor: pointer;
+}
+body {
+    background-image: url("../img/zoo-background.jpg");
+}
+.well h3 {
+    margin-top: 0px;
+}
